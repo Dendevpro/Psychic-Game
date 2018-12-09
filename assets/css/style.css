@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+.background {
+    background-image: url("../images/psychic-game-BG.jpg");
+}
+
+.jumbotron {
+    padding: 1.2rem;
+    text-align: center;
+}
+
+#output {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.col-md-2 {
+    background: green;
+    color: white;
+}
+#loose {
+    background: red;
+    color: white;
+}
+.col-md-4 {
+    background:#f8f9fa;
+}
+
+h1 {
+    font-size: 42px;
+    color: red;
+}
+
+h4 {
+    font-size: 24px;
+    color: white;
+    background: red;
+    padding: 0.5rem;
+    width:  40%;
+    margin: 0 auto;
+    letter-spacing: 2px;
+}
+
+p {
+    font-size: 18px;
+
+}
